@@ -1,1 +1,54 @@
+<!DOCTYPE html>
+<html>
 
+<head>
+    <title>GOAT Comedy Shows</title>
+    <!-- Latest compiled and minified CSS -->
+
+    <link rel="stylesheet" type="text/css"
+        href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+
+</head>
+
+<body>
+
+
+    <div class="jumbotron">
+        <h1 class="display-4"><img id=icon src="icon.jpg"><strong>NBA Team Gifs</strong></h1>
+        <br>
+        <p class="lead"><b>Click on any team to show 10 GIFS of that team!</b></p>
+        <hr class="my-4">
+        <a class="btn btn-primary btn-lg" href="#" role="button">
+            <div id="buttons">
+
+            </div>
+        </a>
+
+        <p>Your team not there?(They probably suck!)</p>
+
+
+        <form id="team-form">
+            <label for="team-input">Add them!</label>
+            <input type="text" id="team-input">
+            <br><br>
+
+
+            <!--Button triggers new show to be added -->
+            <input class="btn btn-primary" id="add-team" type="submit" value="Lets see em!">
+        </form>
+
+    </div>
+
+    <div id="gifshere"> </div>
+
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="game.js"></script>
+
+
+</body>
+
+</html>

@@ -1,1 +1,33 @@
+body{
+    background-image: url("floor.jpg");
+}
 
+
+.jumbotron{
+background: ;
+    margin: 10%;
+}
+
+
+#gifshere{
+
+    margin: 5%;
+}
+
+
+.display-4{
+    background-image: url("head.jpg");
+    text-align: center;
+    border-bottom: 3px solid red;
+    border-top: 3px solid blue;
+    border-left: solid 3px blue;
+    border-right: solid 3px red;
+
+
+    
+}
+
+#icon{
+    width: 15%;
+    height: 15%;
+}
