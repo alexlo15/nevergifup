@@ -17,7 +17,9 @@ background: ;
 
 .display-4{
     background-image: url("head.jpg");
+    background-repeat: round;
     text-align: center;
+    color: white;
     border-bottom: 3px solid red;
     border-top: 3px solid blue;
     border-left: solid 3px blue;
@@ -30,4 +32,12 @@ background: ;
 #icon{
     width: 15%;
     height: 15%;
+}
+.team{
+    padding: 10px;
+    margin: 5px;
+}
+.teamgif{
+    margin: 25px;
+    float: left;
 }
