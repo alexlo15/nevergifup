@@ -25,21 +25,13 @@ Create an application that utilizes the giphy api. This homework was intended to
 * [CSS](https://expressjs.com/)
 
 
- ![Gifs](/gif.jpg)
-
-
-
+ ![Gifs](gif.JPG)
 
 
 ## License
 A short snippet describing the license (MIT, Apache etc)
 
 MIT © 
-[Andrew Sirico](https://github.com/siricoa94),
-[Rishi Ajay](https://github.com/rishiajay),
-[Hetal Patel](https://github.com/HET1905),
-[Dealan Diongzon](https://github.com/ddiongzon001), 
-[Darius McPhatter](https://github.com/kwame16),
 [Alex Lo](https://github.com/alexlo15)
 
 
