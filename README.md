@@ -1,5 +1,4 @@
-# [Never GIF Up](https://alexlo15.github.io/nevergifup/
-)
+# [Never GIF Up](https://alexlo15.github.io/nevergifup/)
 RU-SOM-FSF-FT-06-2019-U-C | HW #6
 
 ___
