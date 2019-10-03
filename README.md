@@ -12,9 +12,9 @@ Create an application that utilizes the giphy api. This homework was intended to
 **Built with:**
 * [GIPHY API](https://developers.giphy.com/)
 * [Bootstrap](https://getbootstrap.com/)
-* [HTML](https://reactjs.org/)
-* [JavaScript](https://nodejs.org/en/)
-* [CSS](https://expressjs.com/)
+* [HTML](https://www.w3schools.com/html/)
+* [CSS](https://www.w3schools.com/css/)
+* [JavaScript](https://www.javascript.com/)
 
 
  ![Gifs](gif.JPG)
