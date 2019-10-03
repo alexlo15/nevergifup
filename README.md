@@ -1,11 +1,3 @@
-# nevergifup
-HW# 6 using giphy api fun!
-
-Rutgers coding bootcamp assignment
-
-https://alexlo15.github.io/nevergifup/
-
-
 # [Never GIF Up](https://alexlo15.github.io/nevergifup/
 )
 RU-SOM-FSF-FT-06-2019-U-C | HW #6
@@ -13,7 +5,7 @@ RU-SOM-FSF-FT-06-2019-U-C | HW #6
 ___
 
 ## Motivation
-Create an application that utilizes the giphy api. This homework was intended to help us understand API's.
+Create an application that utilizes the giphy api. This homework was intended to help us understand API's. This site features an NBA team theme, users can search for GIFS of any NBA team.
 
 ## Technologies used and why
 
