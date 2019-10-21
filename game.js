@@ -1,7 +1,7 @@
 // on page load
 $(document).ready(function () {
 // our topics or teams
-    var topics = ["New York Knicks", "Brooklyn Nets", "Utah Jazz", "Golden State Warriors", "Toronto Raptors", "Oklahoma City Thunder", "Los Angeles Lakers", "Philadelphia 76ers", "Miami Heat", "Portland Trailblazers"]
+    var topics = ["Dallas Mavericks","New Orleans Pelicans", "Orlando Magic", "New York Knicks", "Brooklyn Nets", "Utah Jazz", "Golden State Warriors", "Toronto Raptors", "Oklahoma City Thunder", "Los Angeles Lakers", "Philadelphia 76ers", "Miami Heat", "Portland Trailblazers"]
     
 // where we will store our gifs
     gifshere = " "
@@ -44,7 +44,7 @@ $(document).ready(function () {
 
         var gifteam = $(this).attr('data-name');
 
-        var queryURL = "https://api.giphy.com/v1/gifs/search?q=" + gifteam + "&api_key=JWgyHr2Qwkv09gHZn9tsUdBz3ca18dEA&limit=10";
+        var queryURL = "https://api.giphy.com/v1/gifs/search?q=" + gifteam + "&api_key=JWgyHr2Qwkv09gHZn9tsUdBz3ca18dEA&limit=20";
 
         $.ajax({
             url: queryURL,
